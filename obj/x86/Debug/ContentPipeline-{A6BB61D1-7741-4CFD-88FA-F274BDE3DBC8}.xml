@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Dragon_Move_S.png</Source>
+      <Name>Dragon_Move_S</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cale\Documents\Visual Studio 2012\Projects\Sara_RPG\Sara_RPG\Sara_RPG\bin\x86\Debug\Content\Dragon_Move_S.xnb</Output>
+      <Time>2014-04-20T15:25:16-10:00</Time>
+    </Item>
+    <Item>
+      <Source>sara_movement.png</Source>
+      <Name>sara_movement</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cale\Documents\Visual Studio 2012\Projects\Sara_RPG\Sara_RPG\Sara_RPG\bin\x86\Debug\Content\sara_movement.xnb</Output>
+      <Time>2014-04-14T10:01:08-10:00</Time>
+    </Item>
+    <Item>
+      <Source>sara_move_rows.png</Source>
+      <Name>sara_move_rows</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cale\Documents\Visual Studio 2012\Projects\Sara_RPG\Sara_RPG\Sara_RPG\bin\x86\Debug\Content\sara_move_rows.xnb</Output>
+      <Time>2014-04-14T10:01:08-10:00</Time>
+    </Item>
+    <Item>
+      <Source>Demon_Walk.png</Source>
+      <Name>Demon_Walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cale\Documents\Visual Studio 2012\Projects\Sara_RPG\Sara_RPG\Sara_RPG\bin\x86\Debug\Content\Demon_Walk.xnb</Output>
+      <Time>2014-04-14T10:01:08-10:00</Time>
+    </Item>
+    <Item>
+      <Source>Background.png</Source>
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cale\Documents\Visual Studio 2012\Projects\Sara_RPG\Sara_RPG\Sara_RPG\bin\x86\Debug\Content\Background.xnb</Output>
+      <Time>2014-04-20T11:40:46-10:00</Time>
+    </Item>
+    <Item>
+      <Source>Beach.png</Source>
+      <Name>Beach</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cale\Documents\Visual Studio 2012\Projects\Sara_RPG\Sara_RPG\Sara_RPG\bin\x86\Debug\Content\Beach.xnb</Output>
+      <Time>2014-04-14T10:01:08-10:00</Time>
+    </Item>
+    <Item>
+      <Source>Health_Bar.png</Source>
+      <Name>Health_Bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cale\Documents\Visual Studio 2012\Projects\Sara_RPG\Sara_RPG\Sara_RPG\bin\x86\Debug\Content\Health_Bar.xnb</Output>
+      <Time>2014-04-14T10:01:08-10:00</Time>
+    </Item>
+    <Item>
+      <Source>Left_Wall.png</Source>
+      <Name>Left_Wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cale\Documents\Visual Studio 2012\Projects\Sara_RPG\Sara_RPG\Sara_RPG\bin\x86\Debug\Content\Left_Wall.xnb</Output>
+      <Time>2014-04-14T10:01:08-10:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy_Sorcerer_Sheet.png</Source>
+      <Name>Enemy_Sorcerer_Sheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cale\Documents\Visual Studio 2012\Projects\Sara_RPG\Sara_RPG\Sara_RPG\bin\x86\Debug\Content\Enemy_Sorcerer_Sheet.xnb</Output>
+      <Time>2014-04-20T10:46:08-10:00</Time>
+    </Item>
+    <Item>
+      <Source>Dragon_Fireball.png</Source>
+      <Name>Dragon_Fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cale\Documents\Visual Studio 2012\Projects\Sara_RPG\Sara_RPG\Sara_RPG\bin\x86\Debug\Content\Dragon_Fireball.xnb</Output>
+      <Time>2014-04-20T20:17:52-10:00</Time>
+    </Item>
+    <Item>
+      <Source>Sorcerer_Cast.png</Source>
+      <Name>Sorcerer_Cast</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cale\Documents\Visual Studio 2012\Projects\Sara_RPG\Sara_RPG\Sara_RPG\bin\x86\Debug\Content\Sorcerer_Cast.xnb</Output>
+      <Time>2014-04-20T11:04:34-10:00</Time>
+    </Item>
+    <Item>
+      <Source>bg_music.mp3</Source>
+      <Name>bg_music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cale\Documents\Visual Studio 2012\Projects\Sara_RPG\Sara_RPG\Sara_RPG\bin\x86\Debug\Content\bg_music.xnb</Output>
+      <Extra>C:\Users\Cale\Documents\Visual Studio 2012\Projects\Sara_RPG\Sara_RPG\Sara_RPG\bin\x86\Debug\Content\bg_music.wma</Extra>
+      <Time>2014-04-16T13:03:24-10:00</Time>
+    </Item>
+    <Item>
+      <Source>TotalTime.spritefont</Source>
+      <Name>TotalTime</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cale\Documents\Visual Studio 2012\Projects\Sara_RPG\Sara_RPG\Sara_RPG\bin\x86\Debug\Content\TotalTime.xnb</Output>
+      <Time>2014-04-20T23:24:54-10:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A6BB61D1-7741-4CFD-88FA-F274BDE3DBC8}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Cale\Documents\Visual Studio 2012\Projects\Sara_RPG\Sara_RPG\Sara_RPGContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Cale\Documents\Visual Studio 2012\Projects\Sara_RPG\Sara_RPG\Sara_RPG\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Cale\Documents\Visual Studio 2012\Projects\Sara_RPG\Sara_RPG\Sara_RPG\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Cale\Documents\Visual Studio 2012\Projects\Sara_RPG\Sara_RPG\Sara_RPG\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-04-05T21:52:27.5758854-10:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
